@@ -1,4 +1,4 @@
-# Written_digit_prediction
+# Written Digit Prediction
 # Overview
 This project demonstrates a Handwritten Digit Recognition Model built using Python and TensorFlow in Google Colab. The model is trained on the MNIST dataset to accurately classify handwritten digits (0–9) using deep learning techniques.
 # Features
